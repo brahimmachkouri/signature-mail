@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="fr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Signature email URCA</title>
+
+</head>
+<body style="font-family:arial;font-size:12px;color:rgb(102,0,0);line-height: 1.1;"> 
+   <table>
+        <tr style="line-height: 1;">
+            <td valign="top"><img alt="logos" src="https://www.iut-troyes.univ-reims.fr/images/newlogos3.jpg" style="float:left;padding:0px"></td>
+            <td><font style="font-family:arial;font-size:12px;color:rgb(102,0,0)"><strong><label id="prenom" style="margin-bottom: 0;"> </label> <label id="nom" style="margin-bottom: 0;"></label> </strong><br>
+            <label id="titre" style="margin-bottom: 0;"> </label>  <br> <label id="dep" style="margin-bottom: 0;"></label> <br>IUT de Troyes<br>
+            9, rue de Qu&eacute;bec - CS 90396 - 10026 Troyes cedex<br>
+            T&eacute;l. : <label id="tel" style="margin-bottom: 0;"></label> <br></font></td>
+        </tr>
+        <tr>
+            <td colspan="2"><font color="#660000" style="font-family:arial;font-size:12px;"><a href="https://www.iut-troyes.univ-reims.fr" style="color:rgb(102,0,0);border:0;text-decoration:none;border-bottom-width:1px;border-bottom-color:rgb(102,0,0);border-bottom-style:dotted" target="_blank">https://www.iut-troyes.univ-reims.fr</a></font> | <a href="https://www.univ-reims.fr/" style="color:rgb(208,172,90);border:0;text-decoration:none;border-bottom-width:1px;border-bottom-color:rgb(102,0,0);border-bottom-style:dotted" target="_blank"><font color="#D0AC5A" style="font-family:arial;font-size:12px;">https://www.univ-reims.fr</font></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" valign="top"><a href="https://www.iut-troyes.univ-reims.fr" style="color:rgb(102,0,0);border:0;text-decoration:none;border-bottom-width:1px;border-bottom-color:rgb(102,0,0);border-bottom-style:dotted" target="_blank"><img alt="logos" src="https://raw.githubusercontent.com/brahimmachkouri/images/main/but.jpg" style="float:left;padding:0px"></a></td>
+        </tr>
+</table>
+</body>
+<script type="text/javascript">
+		let params = new URLSearchParams(window.location.search);
+		let prenom = params.get('prenom');
+		document.getElementById('prenom').innerText = prenom;
+		let titre = params.get('titre');
+		document.getElementById('titre').innerText = titre;
+		let nom = params.get('nom');
+		document.getElementById('nom').innerText = nom;
+		let dep = params.get('dep');
+		document.getElementById('dep').innerText = dep;
+		let tel = params.get('tel');
+		document.getElementById('tel').innerText = tel;
+		console.log(prenom,nom,titre,dep,tel);
+	</script>
+</html>
