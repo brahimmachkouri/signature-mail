@@ -1,4 +1,4 @@
-### Utilisation du service de création de signature
+Utilisation du service de création de signature
 
 A. Création de votre signature
 
