@@ -13,7 +13,7 @@ Voici le résultat :
 
 Il faut maintenant faire un copier/coller de cette signature. Faites un CTRL-A pour tout sélectionner. Faites ensuite un CTRL-C pour copier la sélection dans le « presse-papier ».
 
-B. Utilisation de la signature dans le webmail de l’URCA
+B. Si vous utilisez le webmail de l’URCA
 
 Cette deuxième étape consiste à coller votre signature au bon endroit et à effectuer les réglages nécessaires à son utilisation.
 
@@ -32,7 +32,7 @@ Vos réglages doivent refléter ceux des photos d’écran : veillez à bien cli
  Dans Composer les messages au format HTML, sélectionnez toujours :
 ![--image5--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_roundcube3.png)  
  
-C. Utilisation de la signature dans Outlook
+C. Si vous utilisez Outlook
 
 Ouvrez Outlook 2013 et suivez les instructions des schémas suivants :  
 ![--image6--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook1.jpg)  
@@ -45,7 +45,7 @@ Ouvrez Outlook 2013 et suivez les instructions des schémas suivants :
 
 ![--image10--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook5.jpg)  
 
-D. Utilisation de la signature dans Gmail
+D. Si vous utilisez Gmail
 
 Lancer un navigateur Internet (Mozilla Firefox, Google Chrome ou Internet Explorer) et connectez-vous à votre compte Gmail.
 
