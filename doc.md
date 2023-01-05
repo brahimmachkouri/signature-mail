@@ -1,3 +1,5 @@
+## Utilisation du service de création de signature
+
 A. Création de votre signature
 
 La première étape consiste à créer votre signature à l’aide d’une application disponible à l’adresse suivante : http://apps.iut-troyes.univ-reims.fr/sign/
