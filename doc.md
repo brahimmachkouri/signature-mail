@@ -1,11 +1,3 @@
----
-layout: page
-date: 2023-01-05 14:00:00
-title: Utilisation du service de création de signature
-category: bureautique
-tags: signature email mail 
----
-
 A. Création de votre signature
 
 La première étape consiste à créer votre signature à l’aide d’une application disponible à l’adresse suivante : http://apps.iut-troyes.univ-reims.fr/sign/
