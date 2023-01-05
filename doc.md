@@ -3,7 +3,7 @@
 **A. Création de votre signature**
 
 La première étape consiste à créer votre signature à l’aide d’une application disponible à l’adresse suivante :  
-https://www.iut-troyes.univ-reims.fr/signature-mail/
+[https://www.iut-troyes.univ-reims.fr/signature-mail/](https://www.iut-troyes.univ-reims.fr/signature-mail/)
 
 Renseignez les champs du formulaire. Validez en cliquant sur « Générer la signature » :  
 ![--image1--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_image1.png)
