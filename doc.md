@@ -1,6 +1,6 @@
 **Utilisation de l'outil de création de signature**
 
-A. Création de votre signature
+**A. Création de votre signature**
 
 La première étape consiste à créer votre signature à l’aide d’une application disponible à l’adresse suivante :  
 https://www.iut-troyes.univ-reims.fr/signature-mail/
@@ -13,7 +13,7 @@ Voici le résultat :
 
 Il faut maintenant faire un copier/coller de cette signature. Faites un CTRL-A pour tout sélectionner. Faites ensuite un CTRL-C pour copier la sélection dans le « presse-papier ».
 
-B. Si vous utilisez le webmail de l’URCA
+**B. Si vous utilisez le webmail de l’URCA**
 
 Cette deuxième étape consiste à coller votre signature au bon endroit et à effectuer les réglages nécessaires à son utilisation.
 
@@ -32,7 +32,7 @@ Vos réglages doivent refléter ceux des photos d’écran : veillez à bien cli
  Dans Composer les messages au format HTML, sélectionnez toujours :
 ![--image5--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_roundcube3.png)  
  
-C. Si vous utilisez Outlook
+**C. Si vous utilisez Outlook**
 
 Ouvrez Outlook 2013 et suivez les instructions des schémas suivants :  
 ![--image6--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook1.jpg)  
@@ -45,18 +45,19 @@ Ouvrez Outlook 2013 et suivez les instructions des schémas suivants :
 
 ![--image10--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook5.jpg)  
 
-D. Si vous utilisez Gmail
+**D. Si vous utilisez Gmail**
 
 Lancer un navigateur Internet (Mozilla Firefox, Google Chrome ou Internet Explorer) et connectez-vous à votre compte Gmail.
 
 Suivez les instructions des photos d’écran suivantes :  
 ![--image11--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook1.jpg)  
 
+Faites défiler la page jusqu’à la section signature pour arriver à la fenêtre suivante :  
 ![--image12--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook2.jpg)  
 
 ![--image13--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook3.jpg)  
 
 
-Faites défiler la page jusqu’à la section signature pour arriver à la fenêtre suivante :  
+  
 
 
