@@ -9,7 +9,7 @@ Renseignez les champs du formulaire. Validez en cliquant sur « Générer la si
 ![--image1--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/image1.png)
 
 Voici le résultat :  
-![--image2--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/image2.jpg)  
+![--image2--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/image2.png)  
 
 Il faut maintenant faire un copier/coller de cette signature. Faites un CTRL-A pour tout sélectionner. Faites ensuite un CTRL-C pour copier la sélection dans le « presse-papier ».
 
