@@ -50,12 +50,12 @@ Ouvrez Outlook 2013 et suivez les instructions des schémas suivants :
 Lancer un navigateur Internet (Mozilla Firefox, Google Chrome ou Internet Explorer) et connectez-vous à votre compte Gmail.
 
 Suivez les instructions des photos d’écran suivantes :  
-![--image11--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook1.jpg)  
+![--image11--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_gmail1.jpg)  
 
 Faites défiler la page jusqu’à la section signature pour arriver à la fenêtre suivante :  
-![--image12--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook2.jpg)  
+![--image12--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_gmail2.jpg)  
 
-![--image13--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_outlook3.jpg)  
+![--image13--](https://raw.githubusercontent.com/brahimmachkouri/signature-mail/main/images/new_gmail3.jpg)  
 
 
   
